@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-29T00:16:50 EDT" name="Default suite" finished-at="2023-08-29T00:17:27 EDT" duration-ms="36129">
+    <groups>
+    </groups>
+    <test started-at="2023-08-29T00:16:50 EDT" name="Default test" finished-at="2023-08-29T00:17:27 EDT" duration-ms="36129">
+      <class name="pages.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pages.HomePageTest@38cee291]" started-at="2023-08-29T00:16:50 EDT" name="setUp" finished-at="2023-08-29T00:17:09 EDT" duration-ms="18793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickLogoTest()[pri:0, instance:pages.HomePageTest@38cee291]" started-at="2023-08-29T00:17:09 EDT" name="clickLogoTest" finished-at="2023-08-29T00:17:16 EDT" duration-ms="6919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogoTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:pages.HomePageTest@38cee291]" started-at="2023-08-29T00:17:16 EDT" name="tearUp" finished-at="2023-08-29T00:17:16 EDT" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pages.HomePageTest@38cee291]" started-at="2023-08-29T00:17:16 EDT" name="setUp" finished-at="2023-08-29T00:17:21 EDT" duration-ms="4800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickZipCodeTest()[pri:0, instance:pages.HomePageTest@38cee291]" started-at="2023-08-29T00:17:21 EDT" name="clickZipCodeTest" finished-at="2023-08-29T00:17:26 EDT" duration-ms="5181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickZipCodeTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:pages.HomePageTest@38cee291]" started-at="2023-08-29T00:17:26 EDT" name="tearUp" finished-at="2023-08-29T00:17:27 EDT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- pages.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
